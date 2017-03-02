@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile
 
 _DevOps Engineer mahesh.peddipaga@gmail.com , 408-921-6378 ~ California ~ Linkedin: /peddipaga_
 
