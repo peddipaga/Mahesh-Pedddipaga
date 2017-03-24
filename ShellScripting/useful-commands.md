@@ -12,14 +12,12 @@
  
     1) brew install ack
     2) `man ack` for more details.
-----
-==== Wrapper around a program ====
-<code bash>
-myprog=/bin/ls
-echo "This is the wrapper script, it will exec $myprog"
+----------
 
-# do some vodoo here, probably change the arguments etc.
-# well, stuff a wrapper is there for
+** The  exec command
 
-exec "$myprog" "$@"
-</code>
+   Use exec to redirect output of each and every commnad of a shell script to a log file helpful. 
+   This is super useful to keep your script clean
+   
+     exec > file                                                                      
+     exec 2>&1
