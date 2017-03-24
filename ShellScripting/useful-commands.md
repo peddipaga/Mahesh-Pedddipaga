@@ -14,10 +14,10 @@
     2) `man ack` for more details.
 ----------
 
-** The  exec command
+** The **  `exec` ** command **
 
    Use exec to redirect output of each and every commnad of a shell script to a log file helpful. 
    This is super useful to keep your script clean
    
-     exec > file                                                                      
+     exec > file                                                      
      exec 2>&1
