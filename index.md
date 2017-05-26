@@ -1,6 +1,6 @@
 ## Welcome to My Profile
 
-_DevOps Engineer mahesh.peddipaga@gmail.com , 408-921-6378 ~ California ~ Linkedin: /peddipaga_
+_DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipaga_
 
 ### SUMMARY:
 * Approximately 10 years of experience in the IT industry that involves Software Development and Linux Admin activities, DevOps and Production operations along with Splunk. Can work under any stress level and produce productive results. 
