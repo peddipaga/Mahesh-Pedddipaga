@@ -36,7 +36,7 @@ DevOps Engineer _mahesh.peddipaga@gmail.com_ , ~ California ~ Linkedin: [/peddip
 * Debugging application failures, hardware failure and performance issue on the platform.
 
 
-### Apple Inc., DevOps Engineer, Sunnyvale, CA            				                                Sep 2010 – Apr 2017
+### Apple Inc., DevOps Engineer ( Lead/Manager ), Sunnyvale, CA            				                                Sep 2010 – Apr 2017
 
     * DevOps Engineer, Jul-2016 to present
     * Operations Engineering Lead, Jan-2013 to Jun-2016 
