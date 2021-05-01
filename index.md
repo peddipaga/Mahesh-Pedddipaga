@@ -20,7 +20,7 @@ _DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipag
 
 ## PROFESSIONAL EXPERIENCE
 
-**Anaplan Inc., Manager, Site Reliability and Infrastructure Engineering, SFO, CA                     May 2017  – current**
+### Anaplan Inc., Manager, Site Reliability and Infrastructure Engineering, SFO, CA                     May 2017  – current
 * Responsible for defining quarterly and yearly road maps for SRE team.
 * Aligning with R&D/ Engineering org road map and deliver projects.
 * Backlog prioritization, planning of work on bi-weekly or sprint based.
@@ -33,7 +33,7 @@ _DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipag
 * Debugging application failures, hardware failure and performance issue on the platform.
 
 
-**Apple Inc., DevOps Engineer, Sunnyvale, CA            				                                Sep 2010 – Apr 2017**
+### Apple Inc., DevOps Engineer, Sunnyvale, CA            				                                Sep 2010 – Apr 2017
 
     * DevOps Engineer, Jul-2016 to present
     * Operations Engineering Lead, Jan-2013 to Jun-2016 
