@@ -8,7 +8,7 @@
 
 
 ## Summary:
-* Contemporary software professional with vison and strategy for the success of the team and Organization with productivity and results as primary goal.
+* Contemporary software professional with vision and strategy for the success of the team and Organization with productivity and results as primary goal.
 * Top tier proven experience in Leadership in Site reliability, Infrastructure Engineering , DevOps, Production operations streams of engineering.
 * Strong understanding and hands-on experience with production and non-production infrastructure and environments.
 * I have been part of Anaplan’s growth trajectory from a pre-IPO to large scale organization.
