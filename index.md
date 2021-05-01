@@ -2,7 +2,8 @@
 
 DevOps Engineer _mahesh.peddipaga@gmail.com_ , ~ California ~ Linkedin: [/peddipaga](https://www.linkedin.com/in/peddipaga/)
 
-## SUMMARY:
+
+## Summary:
 * Contemporary software professional with vison and strategy for the success of the team and Organization with productivity and results as primary goal.
 * Top tier proven experience in Leadership in Site reliability, Infrastructure Engineering , DevOps, Production operations streams of engineering.
 * Strong understanding and hands-on experience with production and non-production infrastructure and environments.
@@ -14,11 +15,13 @@ DevOps Engineer _mahesh.peddipaga@gmail.com_ , ~ California ~ Linkedin: [/peddip
 * Excellent leadership skills, experience in managing team size of 16 (4 onsite+12 offshore) while I was with Apple and 13 people in the current team at Anaplan.
 * Fair understanding and Realtime experience with SCRUM and agile. Quick Learner, Self-motivator and ability to work in challenging & versatile environments.
 
-## TECHNICAL SKILLS
-* Shell Scripting, Splunk, Chef, Terraform, Artifactory, Java, GIT, GitHub, Storage, Rundeck, KVM, VMware, AWS, MySql, Oracle, Python, Kubernetes, Jenkins, CentOS and RHEL
 
+## Professional Skills
+* Great Leadership Skills, Empathetic Leader, Coach, Influencer, Motivator and Consistent delivery under stress
+* TechSkills:  Kubernetes, Chef, BASH / Shell Scripting, AWS, Linux Administration, Git, Github, Terraform, MySql, DNS, Rundeck, Splunk, Jenkins, Ansible, Puppet, Artifactory, Docker, Python, Ruby, Java, Storage(Isilon/Pure), VMware, Artifactory, Agile /Scrum expert
 
-## PROFESSIONAL EXPERIENCE
+## Experience
+
 
 ### Anaplan Inc., Manager, Site Reliability and Infrastructure Engineering, SFO, CA                     May 2017  – current
 * Responsible for defining quarterly and yearly road maps for SRE team.
@@ -75,8 +78,10 @@ DevOps Engineer _mahesh.peddipaga@gmail.com_ , ~ California ~ Linkedin: [/peddip
 * Reviewing comments for Perform Unit Testing
 * Analyzed and developed components for the business logic and persistent tier.
 
+
 ## Education Details
 * Bachelors degree in Electronics and Communication Engineering, graduated in the year or 2007 from Nagarjuna University, India.
+
 
 ## Certifications
 * Oracle Certified Java Programmer
