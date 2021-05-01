@@ -1,6 +1,6 @@
 ## Welcome to My Profile
 
-_DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipaga_
+DevOps Engineer _mahesh.peddipaga@gmail.com_ , ~ California ~ Linkedin: [/peddipaga](https://www.linkedin.com/in/peddipaga/)
 
 ## SUMMARY:
 * Contemporary software professional with vison and strategy for the success of the team and Organization with productivity and results as primary goal.
