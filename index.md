@@ -1,10 +1,15 @@
 ## Welcome to My Profile
 
 Title: _Manager, Site Reliability and Infrastructure Engineering_
+
 Email: _mahesh.peddipaga@gmail.com_ 
+
 Current Location: _California(bayarea)_ 
+
 Linkedin: [peddipaga](https://www.linkedin.com/in/peddipaga/)
+
 GitHub: [peddipaga](https://github.com/peddipaga)
+
 
 ## Summary:
 * Contemporary software professional with vison and strategy for the success of the team and Organization with productivity and results as primary goal.
