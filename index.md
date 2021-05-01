@@ -39,7 +39,7 @@ _DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipag
     * Operations Engineering Lead, Jan-2013 to Jun-2016 
     * Production Support Engineer, Sep-2010 to Dec-2012
 
-  #### Project Name:  Platform Infrastructure Engineering (Apple)      
+#### Project Name:  Platform Infrastructure Engineering (Apple)      
 * Administrating Github, Jenkins and Rio platforms.
 * Upgrading Jenkins or Github to recent release on need base. 
 * Migrating repositories from different code base or different clusters to PIE github cluster.
@@ -47,7 +47,7 @@ _DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipag
 * Infrastructure monitoring using Splunk by creating Dashboards and monitoring alerts.
 * Fixing Splunk performances issues like lag & line breaking issues.
 
-  #### Project Name:  World Wide Retail Commerce (Apple Point of Sale)   
+#### Project Name:  World Wide Retail Commerce (Apple Point of Sale)   
 * As a team lead for DevOps Engineering team, I need to create an environment oriented to trust, open communication, creative thinking, and cohesive team effort. Provide the team with a vision of the project objectives also motivate and inspire team members.
 * Monitoring Apple-POS application using Splunk, which includes but not limited to deploying Splunk forwarders, setting up dashboards, alerts and creating save searches. 
 * Maintaining configuration files on cluster using puppet and ensuring consistency between environments.
