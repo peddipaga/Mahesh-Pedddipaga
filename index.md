@@ -55,7 +55,7 @@ _DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipag
 * Providing Application level configurations for retail hardware devices in the production.  
 * Working with different payment middleware technical teams
 
-**Walmart, New York, NY. Site Reliability Engineer                                                     Apr 2010 - Sep 2010**
+### Walmart, New York, NY. Site Reliability Engineer                                                     Apr 2010 - Sep 2010
 * Building and Deploying code into production. 
 * Setting up automated jobs for build and release and automation using shell scripting. 
 * Coordinating with Development and QA teams for fixing production issues and deploying application patches.
@@ -64,21 +64,21 @@ _DevOps Engineer mahesh.peddipaga@gmail.com , ~ California ~ Linkedin: /peddipag
 * Deploying variety of artifacts web/enterprise applications/PL-SQL
 * Coordinating and reviewing the enhancement requests with Business 
 
-**Fidelity, Hyderabad, India. Developer				                                                 June-2009 to Mar-2010**
+### Fidelity, Hyderabad, India. Developer				                                                 June-2009 to Mar-2010
 * Involved in writing the test cases for the Customer Account Opening Module.
 * Involved in development of JSP pages from prototypes.
 * Involved in end-to-end development of login functionality.
 
-**Satyam Computer Services Limited, Hyderabad, India. Developer 	                                 Aug 2007 to June 2009**
+### Satyam Computer Services Limited, Hyderabad, India. Developer 	                                 Aug 2007 to June 2009
 * Developed user module for user registration to the portal and raising request, associate actions in user module.
 * Analyzed the data required for the user requests sub module.
 * Reviewing comments for Perform Unit Testing
 * Analyzed and developed components for the business logic and persistent tier.
 
-##    Education Details
-    * Bachelors degree in Electronics and Communication Engineering, graduated in the year or 2007 from Nagarjuna University, India.
+## Education Details
+* Bachelors degree in Electronics and Communication Engineering, graduated in the year or 2007 from Nagarjuna University, India.
 
-## CERTIFICATIONS
-    * Oracle Certified Java Programmer
-    * Business English Certification
+## Certifications
+* Oracle Certified Java Programmer
+* Business English Certification
 
