@@ -1,8 +1,8 @@
 ## Welcome to My Profile
 
-  **Title:**     _Manager, Site Reliability and Infrastructure Engineering_ \
-  **Email:**     _mahesh.peddipaga@gmail.com_ \
-  **Location:**  _California(bayarea)_ \
+  **Title:**     Manager, Site Reliability and Infrastructure Engineering \
+  **Email:**     mahesh.peddipaga@gmail.com \
+  **Location:**  California(bayarea) \
   **Linkedin:**  [peddipaga](https://www.linkedin.com/in/peddipaga/) \
   **GitHub:**    [peddipaga](https://github.com/peddipaga)
 
